@@ -35,12 +35,7 @@ async function clickBoton() {
     document.getElementById('today_new_total_hospitalised_patientss').innerHTML = estadisticas.today_new_total_hospitalised_patientss; 
   
 }
-/**
-* Template Name: Resi - v4.7.0
-* Template URL: https://bootstrapmade.com/resi-free-bootstrap-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
